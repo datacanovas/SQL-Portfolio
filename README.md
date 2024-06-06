@@ -101,6 +101,37 @@ Enlace a proyecto 👉 https://github.com/datacanovas/Anuncios-coches-de-segunda
 
 ✅ Responder a preguntas de negocio concretas
 
+# 4️⃣ Análisis tienda 
+
+
+Proyecto de evaluación de datos para una tienda de ropa, cuyo objetivo es transformar su información en ideas valiosas que simplifiquen la toma de decisiones estratégicas.
+
+Enlace a proyecto 👉 https://github.com/datacanovas/Analysis_tienda_Renner
+
+<h2> ¿Herramientas Utilizas durante el proyecto? </h2>
+
+🚀 Python
+
+🚀 SQL 
+
+🚀 Seaborn
+
+🚀 Matplotlib 
+
+
+<h2> ¿Qué desarrollé en este proyecto? </h2>
+
+✅ Análisis Exploratorio de los Datos (EDA)
+
+✅ Tratamiento de los datos
+
+✅ Optimización de Consultas
+
+✅ Elaborar gráficos de las consultas extraídas
+
+✅ Responder a preguntas de negocio concretas
+
+
 
 
 
