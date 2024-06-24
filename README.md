@@ -5,7 +5,76 @@ El objetivo de esta página es poder enseñar los distintos proyectos hechos en 
 Se realiza una breve descripción de cada uno, guardando mayor información del proyecto dentro de este mismo.
 
 
-# 1️⃣ ElectroShop 
+# 1️⃣ Ventas al por menor 
+
+
+El objetivo de este proyecto es analizar y visualizar los datos de ventas del comercio minorista y los servicios de alimentación en EE.UU.
+
+Los datos proceden de la página web del gobierno de EE.UU. y se han procesado mediante SQL para poder ser analizados correctamente.
+
+Enlace a proyecto 👉 https://github.com/datacanovas/Ventas-al-por-menor-Proyecto
+
+
+<h2> ¿Cómo se ha realizado? </h2>
+
+🚀 En primer lugar realicé un boceto donde puse mis ideas y fui armando las tablas que quería crear. 
+
+🚀 Después realicé la estructura relacional de mis tablas. 
+
+🚀 Creé la base de datos, las tablas e hice la carga de los datos. 
+
+🚀 Respondí las preguntas de negocio que más interesantes me parecieron 
+
+<h2> ¿Qué desarrollé en este proyecto? </h2>
+
+✅ Uso de múltiples JOIN, filtros con WHERE
+
+✅ Uso de funciones de fecha (MONTH y YEAR)
+
+✅ Uso de la función de ventana LAG para comparar periodos
+
+✅ Subconsultas, funciones de agregado y cálculos porcentuales.
+
+✅ Agregación de datos con SUM, JOIN, GROUP BY y ORDER BY.
+
+✅ Uso de GROUP_CONCAT, HAVING, y agregación con filtros adicionales.
+
+✅ Uso de WITH para CTEs, cálculo de proporciones y combinación de múltiples conjuntos de resultados.
+
+
+# 2️⃣ Análisis tienda 
+
+
+Proyecto de evaluación de datos para una tienda de ropa, cuyo objetivo es transformar su información en ideas valiosas que simplifiquen la toma de decisiones estratégicas.
+
+Enlace a proyecto 👉 https://github.com/datacanovas/Analysis_tienda_Renner
+
+<h2> ¿Herramientas Utilizas durante el proyecto? </h2>
+
+🚀 Python
+
+🚀 SQL 
+
+🚀 Seaborn
+
+🚀 Matplotlib 
+
+
+<h2> ¿Qué desarrollé en este proyecto? </h2>
+
+✅ Análisis Exploratorio de los Datos (EDA)
+
+✅ Tratamiento de los datos
+
+✅ Optimización de Consultas
+
+✅ Elaborar gráficos de las consultas extraídas
+
+✅ Responder a preguntas de negocio concretas
+
+
+
+# 3️⃣ ElectroShop 
 
 ElectroShop es una cadena de tiendas que vende productos electrónicos en múltiples ubicaciones. 
 
@@ -43,7 +112,7 @@ Este proyecto define un esquema de base de datos relacional diseñado para gesti
 
 
 
-# 2️⃣ Restaurante. Creación de base de datos y respuestas negocio. 
+# 4️⃣  Restaurante. Creación de base de datos y respuestas negocio. 
 
 Esta base de datos está diseñada para almacenar información sobre los clientes, pedidos, menús y empleados del restaurante. El objetivo es poder responder a las preguntas de negocio de forma sencilla a través de las distintas queries.
 
@@ -73,7 +142,7 @@ Enlace a proyecto 👉 https://github.com/datacanovas/Base-de-Datos-SQL-Restaura
 
 
 
-# 3️⃣ Análisis anuncios de coche de segunda mano .
+#  5️⃣ Análisis anuncios de coche de segunda mano .
 
 Creación de una base de datos para consultar los anuncios de vehículos de segunda mano en España mediante SQL a través de MySQL. 
 
@@ -101,35 +170,6 @@ Enlace a proyecto 👉 https://github.com/datacanovas/Anuncios-coches-de-segunda
 
 ✅ Responder a preguntas de negocio concretas
 
-# 4️⃣ Análisis tienda 
-
-
-Proyecto de evaluación de datos para una tienda de ropa, cuyo objetivo es transformar su información en ideas valiosas que simplifiquen la toma de decisiones estratégicas.
-
-Enlace a proyecto 👉 https://github.com/datacanovas/Analysis_tienda_Renner
-
-<h2> ¿Herramientas Utilizas durante el proyecto? </h2>
-
-🚀 Python
-
-🚀 SQL 
-
-🚀 Seaborn
-
-🚀 Matplotlib 
-
-
-<h2> ¿Qué desarrollé en este proyecto? </h2>
-
-✅ Análisis Exploratorio de los Datos (EDA)
-
-✅ Tratamiento de los datos
-
-✅ Optimización de Consultas
-
-✅ Elaborar gráficos de las consultas extraídas
-
-✅ Responder a preguntas de negocio concretas
 
 
 
